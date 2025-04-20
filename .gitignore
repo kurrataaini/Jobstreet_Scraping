@@ -1,0 +1,18 @@
+# Abaikan virtual environment
+env/
+
+# Abaikan file cache Python
+__pycache__/
+*.pyc
+
+# Abaikan checkpoint dari Jupyter Notebook
+.ipynb_checkpoints/
+
+# Abaikan setting lokal dari VS Code (kalau kamu pakai)
+.vscode/
+
+# Abaikan file sistem dari macOS (kalau pakai mac)
+.DS_Store
+
+test_scraping
+*.db
